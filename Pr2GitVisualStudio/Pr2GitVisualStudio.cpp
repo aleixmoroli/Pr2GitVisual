@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello World! Versión 2.0\n";
+
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
